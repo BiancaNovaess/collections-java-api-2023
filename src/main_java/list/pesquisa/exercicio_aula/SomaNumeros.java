@@ -1,4 +1,4 @@
-package main_java.list.Pesquisa.exercicio_aula;
+package main_java.list.pesquisa.exercicio_aula;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,5 @@
-package main_java.list.Ordenacao.exemplos_aula;
+package main_java.list.ordenacao.exemplos_aula;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

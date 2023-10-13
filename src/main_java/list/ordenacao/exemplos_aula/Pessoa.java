@@ -1,4 +1,4 @@
-package main_java.list.Ordenacao.exemplos_aula;
+package main_java.list.ordenacao.exemplos_aula;
 
 import java.util.Comparator;
 

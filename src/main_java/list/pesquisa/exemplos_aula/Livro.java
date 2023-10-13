@@ -1,4 +1,4 @@
-package main_java.list.Pesquisa.exemplos_aula;
+package main_java.list.pesquisa.exemplos_aula;
 
 public class Livro {
     private String titulo, autor;

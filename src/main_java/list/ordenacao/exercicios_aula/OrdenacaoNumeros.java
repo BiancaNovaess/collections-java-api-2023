@@ -1,6 +1,4 @@
-package main_java.list.Ordenacao.exercicios_aula;
-
-import main_java.list.Ordenacao.exemplos_aula.OrdenacaoPessoas;
+package main_java.list.ordenacao.exercicios_aula;
 
 import java.util.ArrayList;
 import java.util.Collections;

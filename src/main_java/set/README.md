@@ -87,7 +87,4 @@ Crie uma classe chamada "GerenciadorAlunos" que irá lidar com uma lista de alun
 - `exibirAlunos()`: Exibe todos os alunos do conjunto.
 </p>
 
----
-### Dúvidas e Suporte
-
-Caso você tenha alguma dúvida, problema ou sugestão, fique à vontade para abrir uma issue no repositório. Espero conseguir te ajudar! (:
+☕

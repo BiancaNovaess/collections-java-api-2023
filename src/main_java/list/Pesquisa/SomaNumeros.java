@@ -77,10 +77,10 @@ public class SomaNumeros {
 
         listaDeNumeros.exibirNumeros();
 
-        System.out.println(listaDeNumeros.calcularSoma());
+        System.out.println("Soma: " + listaDeNumeros.calcularSoma());
 
-        System.out.println(listaDeNumeros.encontrarMaiorNumero());
-        System.out.println(listaDeNumeros.encontrarMenorNumero());
+        System.out.println("Maior número: " + listaDeNumeros.encontrarMaiorNumero());
+        System.out.println("Menor número: " + listaDeNumeros.encontrarMenorNumero());
     }
 }
 
